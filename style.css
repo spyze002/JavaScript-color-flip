@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.button{
+    background-color: black;
+    color: cornsilk;
+    border: 0;
+    font-size: 12px;
+    border-radius: 6px;
+    padding: 20px 50px;
+    cursor: pointer;
+}
